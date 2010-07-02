@@ -76,7 +76,7 @@ gem install augmented_array
 
 OR
 
-Download the gem file from http://github.com/NiranjanSarade/augmented_array.git/
+Download the gem file from http://github.com/NiranjanSarade/augmented_array/
 gem install augmented_array-0.0.1.gem
 
 Uninstall:
